@@ -1,7 +1,9 @@
 # projeto-nattyornot
 
+Artigo sobre A Inteligência Artificial e o Futuro do Trabalho: Desafios e Oportunidades.
 
-A Inteligência Artificial e o Futuro do Trabalho: Desafios e Oportunidades
+Ultizado o geminai para elaboração do artigo e Leonardo IA para imagen.
+
 A inteligência artificial (IA) está se tornando cada vez mais presente em nossas vidas, e seu impacto no mercado de trabalho é um dos temas mais debatidos da atualidade. De um lado, há o receio de que a automação movida a IA leve à perda de empregos em massa. De outro, surgem novas oportunidades e a promessa de um futuro do trabalho mais produtivo e gratificante.
 
 Desafios da IA no Mercado de Trabalho:
